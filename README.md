@@ -35,9 +35,6 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
   <a href="https://www.github.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
   </a>
@@ -46,9 +43,6 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
-  </a>
-  <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
